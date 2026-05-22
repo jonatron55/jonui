@@ -1,33 +1,33 @@
 @font-face {
-  font-family: SerifFont;
+  font-family: IosevkaArcane;
   font-style: normal;
   src: url("IosevkaArcane-Regular.ttf");
   font-weight: normal;
 }
 
 @font-face {
-  font-family: SerifFont;
+  font-family: IosevkaArcane;
   font-style: normal;
   src: url("IosevkaArcane-Bold.ttf");
   font-weight: bold;
 }
 
 @font-face {
-  font-family: SerifFont;
+  font-family: IosevkaArcane;
   font-style: italic;
   src: url("IosevkaArcane-Italic.ttf");
   font-weight: normal;
 }
 
 @font-face {
-  font-family: SerifFont;
+  font-family: IosevkaArcane;
   font-style: italic;
   src: url("IosevkaArcane-BoldItalic.ttf");
   font-weight: bold;
 }
 
 @font-face {
-  font-family: SerifFont;
+  font-family: IosevkaArcane;
   font-style: normal;
   src: url("IosevkaArcane-Condensed.ttf");
   font-weight: normal;
@@ -35,7 +35,7 @@
 }
 
 @font-face {
-  font-family: SerifFont;
+  font-family: IosevkaArcane;
   font-style: normal;
   src: url("IosevkaArcane-CondensedBold.ttf");
   font-weight: bold;
@@ -43,7 +43,7 @@
 }
 
 @font-face {
-  font-family: SerifFont;
+  font-family: IosevkaArcane;
   font-style: italic;
   src: url("IosevkaArcane-CondensedItalic.ttf");
   font-weight: normal;
@@ -51,9 +51,69 @@
 }
 
 @font-face {
-  font-family: SerifFont;
+  font-family: IosevkaArcane;
   font-style: italic;
   src: url("IosevkaArcane-CondensedBoldItalic.ttf");
+  font-weight: bold;
+  font-stretch: condensed;
+}
+
+@font-face {
+  font-family: IosevkaIntrepid;
+  font-style: normal;
+  src: url("IosevkaIntrepid-Regular.ttf");
+  font-weight: normal;
+}
+
+@font-face {
+  font-family: IosevkaIntrepid;
+  font-style: normal;
+  src: url("IosevkaIntrepid-Bold.ttf");
+  font-weight: bold;
+}
+
+@font-face {
+  font-family: IosevkaIntrepid;
+  font-style: italic;
+  src: url("IosevkaIntrepid-Italic.ttf");
+  font-weight: normal;
+}
+
+@font-face {
+  font-family: IosevkaIntrepid;
+  font-style: italic;
+  src: url("IosevkaIntrepid-BoldItalic.ttf");
+  font-weight: bold;
+}
+
+@font-face {
+  font-family: IosevkaIntrepid;
+  font-style: normal;
+  src: url("IosevkaIntrepid-Condensed.ttf");
+  font-weight: normal;
+  font-stretch: condensed;
+}
+
+@font-face {
+  font-family: IosevkaIntrepid;
+  font-style: normal;
+  src: url("IosevkaIntrepid-CondensedBold.ttf");
+  font-weight: bold;
+  font-stretch: condensed;
+}
+
+@font-face {
+  font-family: IosevkaIntrepid;
+  font-style: italic;
+  src: url("IosevkaIntrepid-CondensedItalic.ttf");
+  font-weight: normal;
+  font-stretch: condensed;
+}
+
+@font-face {
+  font-family: IosevkaIntrepid;
+  font-style: italic;
+  src: url("IosevkaIntrepid-CondensedBoldItalic.ttf");
   font-weight: bold;
   font-stretch: condensed;
 }
